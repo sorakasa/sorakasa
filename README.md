@@ -1,3 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/72a86f7e-8206-42f3-858d-32c2518dffc8" />
+  <img src="https://github.com/user-attachments/assets/18db25a3-4f82-4ef4-bf47-4f62b9717767" />
+</p>
+<p align="center">
+$\color{#b3cd31}{\textsf{that one guy who doesn't play with the color green}}$
 </p>
