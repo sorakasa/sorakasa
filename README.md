@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5ddc122b-1a66-42ae-98b2-b1f97f284513" />
+  <img src="https://github.com/user-attachments/assets/4ac834ce-22b3-48cf-b3f6-25685e7834b3" />
 </p>
 <p align="center">
 $\color{#b3cd31}{\textsf{that one guy who is normal over the color green (lie)}}$
